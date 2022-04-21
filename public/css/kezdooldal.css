@@ -1,0 +1,20 @@
+.sor{
+   
+    display: grid;
+    grid-template-columns: 1fr 5fr;
+}
+.sor label{
+    width: 200px;
+   margin: auto;
+}
+.sor input{
+    width: 75%;
+}
+.gomb #uj ,.gomb #modosit{
+    width: 80px;
+    height: 80px;
+    padding: auto;
+    border: 1px solid gray;
+}
+
+
